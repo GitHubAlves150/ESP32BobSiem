@@ -6,7 +6,7 @@
 #include "driver/gpio.h"
 
 
-#define PIN 14
+#define PIN 35
 void app_main(void)
 {
     gpio_reset_pin(PIN);
@@ -21,3 +21,4 @@ void app_main(void)
     }
     
 }
+       
