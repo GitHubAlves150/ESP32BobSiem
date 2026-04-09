@@ -1,5 +1,5 @@
 # ESP32
-Projetos e exercícios utilizando o Esp32.
+projetos e exercícios utilizando o Esp32.
 Esta sessão tem como objetivo em documentar os principais passos de aprendizado com Esp32 seguindo o didátivo curso do BobSiem na Hotmart
 
 ###############################
